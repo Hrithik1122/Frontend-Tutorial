@@ -20,6 +20,4 @@ You must first fork this repository or clone it using the command
 Then `cd` into the directory where the repository has been cloned. Open the file **home.html** in a web browser to view and use the website.
 
 ## Deployment
-This site has been deployed on heroku and you can view it below:
-
-[https://frontend-tutorial.herokuapp.com/]
+[https://hrithik1122.github.io/Frontend-Tutorial/]
